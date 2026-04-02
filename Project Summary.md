@@ -1,6 +1,3 @@
-# Giverly-UAE-Expansion-2
-Business analysis and product design case study for Giverly's UAE market expansion
-
 # Project Summary
 
 This repository presents the Giverly UAE Expansion capstone project, focused on designing a fintech-for-good solution that integrates cashback rewards, charitable donations, and user engagement features for the UAE market.
