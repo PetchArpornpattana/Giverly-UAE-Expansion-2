@@ -50,14 +50,18 @@ Expanding into the UAE requires addressing:
 
 I contributed across the full lifecycle of the solution:
 
-- Led sprint planning and Agile coordination across project phases  
-- Developed Persona 3, empathy map, and customer journey map for UAE users  
-- Translated user insights into MVP features and product recommendations  
-- Contributed to prototype design and iterative refinement based on stakeholder feedback   
+- Structured Agile sprint planning and delivery phases  
+- Translated business needs into product and system requirements  
+- Created user research artefacts including persona, empathy map, and customer journey  
+- Contributed to MVP definition and prototype development  
+- Analysed stakeholder feedback and supported iterative refinement  
 
-What I personally contributed?
+### Key Contributions
+- Led sprint planning and Agile coordination across project phases
+- Developed Persona 3, empathy map, and customer journey map for UAE users
+- Translated user insights into MVP features and product recommendations
+- Contributed to prototype design and iterative refinement based on stakeholder feedback
 
-- Key contributions included sprint planning, Persona 3 development, empathy mapping, customer journey analysis, and prototype contribution for UAE user scenarios.
 ---
 
 ## 👥 User-Centred Design
@@ -89,7 +93,7 @@ What I personally contributed?
 
 ## 🧩 Customer Journey Thinking
 
-Mapped across:
+The customer journey was mapped across five stages:
 
 **Awareness → Consideration → Conversion → Retention → Advocacy**
 
@@ -119,7 +123,7 @@ Using **MoSCoW prioritisation**, the project focused on:
 
 ## 💡 Proposed Solution
 
-A mobile-first fintech platform connecting:
+The proposed solution is a mobile-first fintech platform that connects:
 
 **Spending → Cashback → Donations → Impact Tracking**
 
