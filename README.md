@@ -1,6 +1,6 @@
 # 🌍 Giverly UAE Expansion  
 ### Designing a Fintech Ecosystem that Turns Everyday Spending into Social Impact
-
+[Project Summary](Notes/Project-Summary.md)
 ---
 
 ## 🚀 What This Project Is About
