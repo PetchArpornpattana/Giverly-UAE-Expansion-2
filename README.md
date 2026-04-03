@@ -162,6 +162,7 @@ A mobile-first fintech platform connecting:
     <img src="Assets/demo.gif" width="300"/>
   </a>
 </p>
+
 ---
 
 ## 🔄 Agile Delivery Approach
