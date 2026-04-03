@@ -159,7 +159,7 @@ A mobile-first fintech platform connecting:
 
 <p align="center">
   <a href="https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396">
-    <img src="Assets/demo.gif" width="600"/>
+    <img src="Assets/demo.gif" width="300"/>
   </a>
 </p>
 ---
