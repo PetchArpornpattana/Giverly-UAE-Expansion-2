@@ -57,7 +57,7 @@ I contributed across the full lifecycle of the solution:
 - Motivated by transparency and visible impact  
 
 ### Persona Assets
-- [Persona](assets/persona_khalid.png)
+- [Persona](assets/persona-khalid.png)
 - [Empathy Map](assets/empathy-map-khalid.png)
 - [Customer Journey Map](assets/customer-journey-khalid.png)
 
