@@ -229,11 +229,11 @@ Key refinement areas included:
 
 ## 📄 Supporting Documents
 
-- [Final Report](Docs/final-report.pdf)
 - [Milestone 1 Report](Docs/milestone-1-report.pdf)
 - [Slides 1](Docs/slide-milestone-1.pdf)
 - [Milestone 2 Report](Docs/milestone-2-report.pdf)
 - [Slides 2](Docs/slide-milestone-2.pdf)
+- [Final Report](Docs/final-report.pdf)
 
 ---
 
