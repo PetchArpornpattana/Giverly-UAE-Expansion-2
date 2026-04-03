@@ -119,11 +119,11 @@ A mobile-first fintech platform connecting:
 
 ## 🏗 Platform Design & Wireframes
 
-## 🎥 Demo
+### 🎥 Demo
 
 Watch the product walkthrough:
 
-[▶️ Watch Demo Video](https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396)
+  [▶️ Watch Demo Video](https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396)
 
 ### Architecture
 - [Platform Architecture Overview](Assets/architecture-overview.png)
