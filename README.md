@@ -40,11 +40,10 @@ Expanding into the UAE requires addressing:
 
 I contributed across the full lifecycle of the solution:
 
-- Structured Agile sprint planning and delivery phases  
-- Translated business needs into product and system requirements  
-- Created user research artefacts including persona, empathy map, and customer journey  
-- Contributed to MVP definition and prototype development  
-- Analysed stakeholder feedback and supported iterative refinement  
+- Led sprint planning and Agile coordination across project phases  
+- Developed Persona 3, empathy map, and customer journey map for UAE users  
+- Translated user insights into MVP features and product recommendations  
+- Contributed to prototype design and iterative refinement based on stakeholder feedback   
 
 What I personally contributed?
 
@@ -132,6 +131,13 @@ Watch the product walkthrough:
 - [Platform Architecture Overview](Assets/architecture-overview.png)
 
 ### Screens
+| Feature | Preview |
+|--------|--------|
+| Dashboard | ![](Assets/dashboard.png) |
+| Impact Tracking | ![](Assets/impact tracking.png) |
+| Gamification | ![](Assets/gamified engagement.png) |
+| AI Recommendation | ![](Assets/AI recommendation engine.png) |
+
 - [Welcome and Onboarding](Assets/onboarding.png)
 - [Main Dashboard and Impact Tracking](Assets/dashboard.png)
 - [Impact Tracking](Assets/impact-tracking.png)
