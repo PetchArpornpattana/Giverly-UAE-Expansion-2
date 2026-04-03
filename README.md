@@ -46,6 +46,9 @@ I contributed across the full lifecycle of the solution:
 - Contributed to MVP definition and prototype development  
 - Analysed stakeholder feedback and supported iterative refinement  
 
+What I personally contributed?
+
+- Key contributions included sprint planning, Persona 3 development, empathy mapping, customer journey analysis, and prototype contribution for UAE user scenarios.
 ---
 
 ## 👥 User-Centred Design
@@ -176,7 +179,7 @@ Key refinement areas included:
 
 - Delivered a complete business and product solution for UAE market entry  
 - Achieved **High Distinction (90.6%)**  
-- Recognised for strong analytical thinking, critical reasoning, and professional-level delivery  
+- Recognised for strong analytical depth, critical thinking, and professional-quality recommendations. 
 
 ---
 
