@@ -58,8 +58,8 @@ I contributed across the full lifecycle of the solution:
 
 ### Persona Assets
 - [Persona](Assets/persona-khalid.png)
-- [Empathy Map](assets/empathy-map-khalid.png)
-- [Customer Journey Map](assets/customer-journey-khalid.png)
+- [Empathy Map](Assets/empathy-map-khalid.png)
+- [Customer Journey Map](Assets/customer-journey-khalid.png)
 
 ---
 
@@ -120,19 +120,21 @@ A mobile-first fintech platform connecting:
 ## 🏗 Platform Design & Wireframes
 
 ### Architecture
-- [Platform Architecture Overview](assets/architecture-overview.png)
+- [Platform Architecture Overview](Assets/architecture-overview.png)
 
 ### Screens
-- [Welcome and Onboarding](assets/onboarding.png)
-- [Main Dashboard and Impact Tracking](assets/dashboard-impact-tracking.png)
-- [Gamified Engagement System](assets/gamified-engagement.png)
-- [AI-Driven Recommendation Engine](assets/ai-recommendation-engine.png)
-- [Transaction Processing System](assets/transaction-processing.png)
-- [Organisation Management Suite](assets/organisation-suite.png)
-- [Community Engagement Platform](assets/community-platform.png)
+- [Welcome and Onboarding](Assets/onboarding.png)
+- [Main Dashboard and Impact Tracking](Assets/dashboard.png)
+- [Impact Tracking](Assets/impact-tracking.png)
+- [Gamified Engagement System](Assets/gamified-engagement.png)
+- [AI-Driven Recommendation Engine](Assets/AI-recommendation-engine.png)
+- [Transaction Processing System](Assets/transaction-processing-1.png)
+- [Transaction Security System](Assets/transaction-processing-2.png)
+- [Organisation Management Suite](Assets/organisation-suite.png)
+- [Community Engagement Platform](Assets/community-platform.png)
 - [Islamic Finance Hub](assets/islamic-finance-hub.png)
-- [Support Infrastructure](assets/support-infrastructure.png)
-- [Animal Welfare Campaign Suite](assets/animal-welfare-suite.png)
+- [Support Infrastructure](Assets/support-infrastructure.png)
+- [Animal Welfare Campaign Suite](Assets/animal-welfare-suite.png)
 
 ---
 
@@ -193,10 +195,11 @@ Key refinement areas included:
 
 ## 📄 Supporting Documents
 
-- [Final Report](docs/final-report.pdf)
-- [Milestone 1 Report](docs/milestone-1-report.pdf)
-- [Milestone 2 Report](docs/milestone-2-report.pdf)
-- [Slides](docs/slides.pdf)
+- [Final Report](Docs/final-report.pdf)
+- [Milestone 1 Report](Docs/milestone-1-report.pdf)
+- [Slides 1](Docs/slide-milestone-1.pdf)
+- [Milestone 2 Report](Docs/milestone-2-report.pdf)
+- [Slides 2](Docs/slide-milestone-2.pdf)
 
 ---
 
