@@ -1,5 +1,5 @@
 # 🌍 Giverly UAE Expansion  
-### Designing a Fintech Ecosystem that Turns Everyday Spending into Social Impact
+### Designing a fintech ecosystem that seamlessly integrates cashback, donations, and user engagement to turn everyday spending into social impact.
 [Project Summary](Notes/Project-Summary.md)
 ---
 
@@ -12,6 +12,16 @@ This project explores the expansion of **Giverly**, a fintech-for-good platform,
 - Cashback rewards  
 - Charitable donations  
 - Gamified user engagement  
+
+---
+
+## 🚀 Why This Project Matters
+
+This project demonstrates the ability to:
+
+- Bridge business, user, and technology perspectives  
+- Translate research into actionable product decisions  
+- Design scalable, user-centric fintech solutions
 
 ---
 
@@ -59,9 +69,12 @@ What I personally contributed?
 - Motivated by transparency and visible impact  
 
 ### Persona Assets
-- [Persona](Assets/persona-khalid.png)
-- [Empathy Map](Assets/empathy-map-khalid.png)
-- [Customer Journey Map](Assets/customer-journey-khalid.png)
+
+| Feature | Preview |
+|--------|--------|
+| Persona | ![](Assets/persona-khalid.png) |
+| Empathy Map | ![](Assets/empathy-map-khalid.png) |
+| Customer Journey Map | ![](Assets/customer-journey-khalid.png) |
 
 ---
 
@@ -121,23 +134,12 @@ A mobile-first fintech platform connecting:
 
 ## 🏗 Platform Design & Wireframes
 
-### 🎥 Demo
-
-Watch the product walkthrough:
-
-  [▶️ Watch Demo Video](https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396)
-
 ### Architecture
-- [Platform Architecture Overview](Assets/architecture-overview.png)
-
-### Screens
 | Feature | Preview |
 |--------|--------|
-| Dashboard | ![](Assets/dashboard.png) |
-| Impact Tracking | ![](Assets/impact tracking.png) |
-| Gamification | ![](Assets/gamified engagement.png) |
-| AI Recommendation | ![](Assets/AI recommendation engine.png) |
+| Platform Architecture Overview | ![](Assets/architecture-overview.png) |
 
+### Screens
 - [Welcome and Onboarding](Assets/onboarding.png)
 - [Main Dashboard and Impact Tracking](Assets/dashboard.png)
 - [Impact Tracking](Assets/impact-tracking.png)
@@ -150,6 +152,12 @@ Watch the product walkthrough:
 - [Islamic Finance Hub](Assets/islamic-finance-hub.png)
 - [Support Infrastructure](Assets/support-infrastructure.png)
 - [Animal Welfare Campaign Suite](Assets/animal-welfare-suite.png)
+
+---
+
+## 🎥 Demo
+
+[![Watch Demo](https://cdn.loom.com/sessions/thumbnails/ef79d2a043a344e49eed8227f0c4c396-with-play.gif)](https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396)
 
 ---
 
@@ -185,7 +193,10 @@ Key refinement areas included:
 
 - Delivered a complete business and product solution for UAE market entry  
 - Achieved **High Distinction (90.6%)**  
-- Recognised for strong analytical depth, critical thinking, and professional-quality recommendations. 
+- Recognised for:
+  - Strong analytical depth  
+  - High-quality recommendations  
+  - Professional-level presentation and documentation  
 
 ---
 
