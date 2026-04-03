@@ -157,7 +157,7 @@ A mobile-first fintech platform connecting:
 
 ## 🎥 Demo
 
-[![Watch Demo](https://cdn.loom.com/sessions/thumbnails/ef79d2a043a344e49eed8227f0c4c396-with-play.gif)](https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396)
+[![Watch Demo](Assets/demo.gif)](https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396)
 
 ---
 
