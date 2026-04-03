@@ -157,9 +157,11 @@ A mobile-first fintech platform connecting:
 
 ## 🎥 Demo
 
-<a href="https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396">
-  <img src="Assets/demo-thumbnail.png" width="600"/>
-</a>
+<p align="center">
+  <a href="https://www.loom.com/share/ef79d2a043a344e49eed8227f0c4c396">
+    <img src="Assets/demo-thumbnail.png" width="600"/>
+  </a>
+</p>
 ---
 
 ## 🔄 Agile Delivery Approach
